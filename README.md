@@ -10,7 +10,7 @@
 {
   main = [ "cpp" "c" "py" "ts" "java" ];
   inactive = [ "go" "lua" "html" "css" ];
-  wantToLearn = [ "zig" "matlab" "ada" "assembly" ];
+  wantToLearn = [ "zig" "matlab" "ada" "asm" ];
   tools = [ "vscode" "cmake" "git" "nixos" ];
 }
 ```
